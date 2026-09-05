@@ -1,0 +1,6 @@
+Model,CV MAE
+XGBoost,198.985
+Gradient Boosting,200.035
+Random Forest,205.444
+Ridge Regression,225.379
+Linear Regression,225.582
