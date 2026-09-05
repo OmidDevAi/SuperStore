@@ -106,25 +106,25 @@ XGBoost was selected as the final model because it achieved the lowest test MAE 
 
 ## Visualizations
 
-The project contains visualizations for:
+### Sales by Category
 
-* Sales by category
-* Sales by region
-* Profit by category
-* Profit by region
-* Profit by sub-category
-* Monthly sales trends
-* Monthly profit trends
-* Sales distribution
-* Sales vs. profit
-* Discount vs. profit
-* Correlation heatmap
-* Feature importance
-* Actual vs. predicted sales
-* Model comparison
-* Top customers
-* Top products
-* Negative-profit products
+![Sales by Category](outputs/charts/sales_by_category.png)
+
+### Monthly Sales Trend
+
+![Monthly Sales Trend](outputs/charts/monthly_sales_trend.png)
+
+### Model Performance
+
+![Model Comparison - R2](outputs/charts/model_comparison_r2.png)
+
+### Actual vs Predicted Sales
+
+![Actual vs Predicted](outputs/charts/actual_vs_predicted.png)
+
+### Feature Importance
+
+![Feature Importance](outputs/charts/feature_importance.png))
 
 The project also includes interactive HTML dashboards for exploring the results.
 
